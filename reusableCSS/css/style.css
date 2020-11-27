@@ -26,7 +26,7 @@ nav a:hover{
     cursor: pointer;
 }
 section{
-    background-color: #f1f1f1;
+    background-color: #f5f5f5;
     color: rgb(43, 42, 46);
     width: 65%;
     min-height: 600px;
@@ -36,7 +36,7 @@ section{
     float: left;
 }
 aside{
-    background-color: #c4c4c4;
+    background-color: #c9c9c9;
     color: #666666 !important;
     min-height: 600px;
     width: 30%;
