@@ -27,6 +27,7 @@ nav a:hover{
 }
 section{
     background-color: #f1f1f1;
+    color: rgb(43, 42, 46);
     width: 65%;
     min-height: 600px;
     margin: 10px 10px 10px 10px;
@@ -36,9 +37,9 @@ section{
 }
 aside{
     background-color: #c4c4c4;
-    color: #666666;
+    color: #666666 !important;
     min-height: 600px;
-    width: 31.5%;
+    width: 30%;
     margin: 10px 10px 10px 10px;
     border-radius: 10px;
     float: left;
@@ -79,4 +80,9 @@ nav ul li{
 .colP{
     margin-left: 20px;
     margin-right: 20px;
+}
+@media only screen and (max-device-width: 800px) {
+    section, aside{
+        width: 97%;
+    }
 }
