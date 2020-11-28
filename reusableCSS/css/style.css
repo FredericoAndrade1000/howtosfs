@@ -47,7 +47,8 @@ aside{
 footer{
     background-color: royalblue;
     color: #ffffff;
-    height: 80px;
+    text-align: center;
+    height: 85px;
     padding-top: 20px;
     clear: both;
 }
@@ -57,6 +58,21 @@ h1, h2, h3, h4, p, a{
 a{
     text-decoration: none;
     color: black;
+}
+h1{
+    font-size: 28pt;
+}
+h2{
+    font-size: 20pt;
+}
+h3{
+    font-size: 18pt;
+}
+h4{
+    font-size: 16pt;
+}
+p{
+    font-size: 14pt;
 }
 .articles{
     list-style: none;
@@ -80,6 +96,13 @@ nav ul li{
 .colP{
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 30px;
+}
+.colI{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
 }
 @media only screen and (max-device-width: 1000px) {
     section{
