@@ -48,16 +48,19 @@ footer{
     background-color: royalblue;
     color: #ffffff;
     text-align: center;
-    height: 85px;
+    height: 70px;
     padding-top: 20px;
     clear: both;
 }
-h1, h2, h3, h4, p, a{
+h1, h2, h3, h4, h5, p, a{
     font-family: Arial, Helvetica, sans-serif;
 }
 a{
     text-decoration: none;
     color: black;
+}
+section a{
+    color: blue;
 }
 h1{
     font-size: 28pt;
@@ -78,6 +81,9 @@ p{
     list-style: none;
     border-left: 1px solid rgb(133, 133, 133);
     overflow: hidden;
+}
+.articles a{
+    color: black;
 }
 .articles:hover a{
     color:#0071c2;
