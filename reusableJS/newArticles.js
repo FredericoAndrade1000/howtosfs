@@ -1,9 +1,9 @@
 var articleCount = 1
-const newTutorialsArticles = ['<div class="colP"><a href="../../articles/tips01/index.html"><h4>3 dicas para começar bem no Spaceflight Simulator</h4></a></div>', '<div class="colP"><a href="../../articles/howtogetorbit/index.html"><h4>Como chegar a órbita no Spaceflight Simulator</h4></a></div>']
+const newTutorialsArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/tips01/index.html"><h4>3 dicas para começar bem no Spaceflight Simulator</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/howtogetorbit/index.html"><h4>Como chegar a órbita no Spaceflight Simulator</h4></a></div>']
 
-const newPartsArticles = ['<div class="colP"><a href="../../articles/capsule-part/index.html"><h4>Cápsula</h4></a></div>', '<div class="colP"><a href="../../articles/hawkEngine-part/index.html"><h4>Motor Hawk</h4></a></div>', '<div class="colP"><a href="../../articles/probe-part/index.html"><h4>Controlador remoto</h4></a></div>']
+const newPartsArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/capsule-part/index.html"><h4>Cápsula</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/hawkEngine-part/index.html"><h4>Motor Hawk</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/probe-part/index.html"><h4>Controlador remoto</h4></a></div>']
 
-const newOthersArticles = ['<div class="colP"><a href="../../articles/SFSUpdates/index.html"><h4>Atualizações do SFS</h4></a></div>']
+const newOthersArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/SFSUpdates/index.html"><h4>Atualizações do SFS</h4></a></div>']
 
 newTutorialsArticles.reverse()
 newPartsArticles.reverse()
