@@ -157,6 +157,11 @@ ul li{
         font-size: 12pt;
     }
 }
+@media only screen and (max-device-width: 450px) {
+    img{
+        width: 100%;
+    }
+}
 @media only screen and (max-device-width: 360px) {
     nav a {
         font-size: 10pt;
