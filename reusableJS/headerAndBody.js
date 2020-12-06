@@ -3,7 +3,7 @@ const headerAndNav =  '<header>'+
             '</header>'+
             '<nav>'+
                 '<ul>'+
-                    '<li><a href="https://howtosfs.ml/home/html/index.html">HOME</a></li>'+
+                    '<li><a href="https://howtosfs.ml/index.html">HOME</a></li>'+
                     '<li><a href="https://howtosfs.ml/articlesList/html/index.html">ARTIGOS</a></li>'+
                     '<li><a href="https://howtosfs.ml/about/html/index.html">SOBRE</a></li>'+
                     '<li><a href="https://howtosfs.ml/contribute/html/index.html">CONTRIBUA</a></li>'+
