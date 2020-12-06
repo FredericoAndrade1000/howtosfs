@@ -1,5 +1,5 @@
 const headerAndNav =  '<header>'+
-                '<a class="logo" href="https://howtosfs.ml/home/html/index.html"><em>HowToSFS</em>.ml</a>'+
+                '<a class="logo" href="https://howtosfs.ml/index.html"><em>HowToSFS</em>.ml</a>'+
             '</header>'+
             '<nav>'+
                 '<ul>'+
