@@ -1,9 +1,10 @@
 var articleCount = 1
+var maxArticleCount = 10
 const newTutorialsArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/tips01/index.html"><h4>3 dicas para começar bem no Spaceflight Simulator</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/howtogetorbit/index.html"><h4>Como chegar a órbita no Spaceflight Simulator</h4></a></div>']
 
-const newPartsArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/capsule-part/index.html"><h4>Cápsula</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/hawkEngine-part/index.html"><h4>Motor Hawk</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/probe-part/index.html"><h4>Controlador remoto</h4></a></div>']
+const newPartsArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/capsule-part/index.html"><h4>Cápsula</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/hawkEngine-part/index.html"><h4>Motor Hawk</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/probe-part/index.html"><h4>Controlador remoto</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/valiantEngine-part/index.html"><h4>Motor Valiant</h4></a></div>']
 
-const newOthersArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/SFSUpdates/index.html"><h4>Atualizações do SFS</h4></a></div>']
+const newOthersArticles = ['<div class="colP"><a href="https://howtosfs.ml/articles/SFSUpdates/index.html"><h4>Atualizações do SFS</h4></a></div>', '<div class="colP"><a href="https://howtosfs.ml/articles/blueprint/index.html"><h4>Conceito de Blueprint</h4></a></div>']
 
 newTutorialsArticles.reverse()
 newPartsArticles.reverse()
@@ -18,7 +19,7 @@ show(articleCount, newPartsArticles, insertPositionParts)
 show(articleCount, newOthersArticles, insertPositionOthers)
 
 function show(count, news, insertPosition){
-    while (count <= 10 && news[count - 1] != undefined){
+    while (count <= maxArticleCount && news[count - 1] != undefined){
         insertPosition.insertAdjacentHTML('beforeend', news[count - 1])
         count++
     }
