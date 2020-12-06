@@ -6,6 +6,7 @@ const headerAndNav =  '<header>'+
                     '<li><a href="https://howtosfs.ml/home/html/index.html">HOME</a></li>'+
                     '<li><a href="https://howtosfs.ml/articlesList/html/index.html">ARTIGOS</a></li>'+
                     '<li><a href="https://howtosfs.ml/about/html/index.html">SOBRE</a></li>'+
+                    '<li><a href="https://howtosfs.ml/contribute/html/index.html">CONTRIBUA</a></li>'+
                 '</ul>'+
             '</nav>'
 const insertPositionBody = document.getElementById("body")

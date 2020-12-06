@@ -8,7 +8,7 @@ const asideAndFooter = '<aside>'+
                     '</aside>'+
                     '<footer>'+
                         '<div class="colP">'+
-                            '<h5>Copyright Frederico Andrade &copy; 2020 - <a href="https://howtosfs.ml/privacyPolicy/index.html">Políticas de Privacidade<a/></h5>'+
+                            '<h5>Copyright &copy; 2020 - <a href="https://howtosfs.ml/privacyPolicy/index.html">Políticas de Privacidade<a/></h5>'+
                         '</div>'+
                     '</footer>'
 add(asideAndFooter, insertPositionBody)
