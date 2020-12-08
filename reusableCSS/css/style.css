@@ -36,11 +36,11 @@ article{
     float: left;
 }
 aside{
-    background-color: #c9c9c9;
+    background-color: #d4d4d4;
     color: #666666 !important;
     min-height: 600px;
-    width: 30%;
-    margin: 10px 10px 10px 10px;
+    width: 32%;
+    margin: 10px 0 10px 5px;
     border-radius: 10px;
     float: left;
 }
@@ -48,9 +48,9 @@ footer{
     background-color: royalblue;
     color: #ffffff;
     text-align: center;
-    height: 70px;
     padding-top: 20px;
     clear: both;
+    overflow: hidden;
 }
 footer a{
     color: #ffffff;
@@ -159,11 +159,16 @@ ul li{
 }
 @media only screen and (max-device-width: 450px) {
     img{
-        width: 100%;
+        width: 70%;
     }
 }
 @media only screen and (max-device-width: 360px) {
     nav a {
         font-size: 10pt;
+    }
+}
+@media only screen and (max-device-width: 320px) {
+    nav a {
+        font-size: 8pt;
     }
 }
