@@ -4,69 +4,87 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://howtosfs.ml/</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articlesList/html/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/about/html/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/contribute/html/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/tips01/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/howtogetorbit/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/capsule-part/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/hawkEngine-part/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/probe-part/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/valiantEngine-part/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/SFSUpdates/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://howtosfs.ml/articles/blueprint/index.html</loc>
-  <lastmod>2020-12-06T22:59:57+00:00</lastmod>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://howtosfs.ml/articles/downloadSFS-android/index.html</loc>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://howtosfs.ml/articles/downloadSFS-IOS/index.html</loc>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://howtosfs.ml/privacyPolicy/index.html</loc>
+  <lastmod>2020-12-09T01:07:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
