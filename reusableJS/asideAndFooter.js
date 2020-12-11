@@ -11,7 +11,9 @@ const asideAndFooter = '<aside>'+
                             '<h5>Copyright &copy; 2020 - <a href="https://howtosfs.ml/privacyPolicy/index.html">Políticas de Privacidade</a></h5>'+
                         '</div>'+
                     '</footer>'
+const insertPositionBody = document.getElementById("body")
 add(asideAndFooter, insertPositionBody)
+
 function add(object, insertPosition){
     insertPosition.insertAdjacentHTML('beforeend', object)
 }
